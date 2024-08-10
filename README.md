@@ -15,7 +15,7 @@
 </p>
 
 
-# About Inke
+# About Inke.
 
 [Inke](https://inke.app/) is a Notion-style WYSIWYG editor with AI-powered autocompletions.
 
